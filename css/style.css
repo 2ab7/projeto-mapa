@@ -1,0 +1,21 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    background: url(../images/background.jpg) center center no-repeat;
+    min-height: 100vh;
+    background-size: cover;
+}
+h1, h2{
+    padding: 2rem;
+    color: #453127;
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+#mapID{
+    height: 45rem;
+    width: 50%;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    border:2px solid #000;
+}
